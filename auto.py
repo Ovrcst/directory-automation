@@ -58,4 +58,4 @@ for item in os.listdir(path):
         print(e)
         continue
 
-print("Finished Successfully")
+print("Done")
